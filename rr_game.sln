@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rr_game", "rr_game.csproj", "{7AEA0607-92CF-4270-9280-4EB99EFF1CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testout", "..\testout\testout.csproj", "{5B7E902D-BF08-4310-A087-909730953393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEA0607-92CF-4270-9280-4EB99EFF1CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEA0607-92CF-4270-9280-4EB99EFF1CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEA0607-92CF-4270-9280-4EB99EFF1CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEA0607-92CF-4270-9280-4EB99EFF1CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7E902D-BF08-4310-A087-909730953393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7E902D-BF08-4310-A087-909730953393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7E902D-BF08-4310-A087-909730953393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7E902D-BF08-4310-A087-909730953393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FCDCDF-2D06-45A7-8A8F-F0FBAA6E2972}
+	EndGlobalSection
+EndGlobal
